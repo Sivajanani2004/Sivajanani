@@ -9,7 +9,9 @@
 - 💼 Looking for opportunities as a Data Analyst / Data Scientist  
 - 💬 Ask me about Python, SQL, Data Visualization, ML, and AI  
 - 📊 I enjoy finding insights and patterns from data  
-- 📫 How to reach me: [LinkedIn](siva-janani-r-55b359366) | [Email](mailto:mailto:jananir043@gmail.com)  
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](siva-janani-r-55b359366)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jananir043@gmail.com)  
+  
 - ✨ Fun fact: I like exploring new places and learning new tools  
 
 ---
