@@ -1,20 +1,20 @@
 # Sivajanani
-# Hi there 👋 I'm Janani  
+# Hi there 👋 I'm Siva Janani  
 
-🎓 B.Sc Computer Science Graduate | 📊 Data Science Enthusiast  
+🎓 B.Sc Computer Science Graduate | 📊 Learning Data Science  
 
-💡 Passionate about solving real-world problems using Data Science, Machine Learning, and AI.  
+💡 I like Working with data and buliding projects that give useful insights.  
 📚 Completed an 8-month intensive Data Science course.  
-🔍 Always curious to learn new technologies and build impactful projects.  
+🔍 I'm interested in Data Science, Machine Learning, and AI 
 
 ---
 
 ### 🚀 What I'm up to:
-- 🌱 Currently enhancing skills in *Machine Learning, Deep Learning & NLP*  
-- 👯 Open to collaborate on *Data Science & Analytics projects*  
+- 🌱 Learning more about *Machine Learning, Deep Learning, and NLP*  
+- 👯 Open to working on *Data Science and Data Analysis projects*  
 - 💼 Looking for opportunities as a *Data Analyst / Data Scientist*  
-- 💬 Ask me about *Python, SQL, Data Visualization, ML, AI*  
-- 📊 Love turning raw data into meaningful insights  
+- 💬 I can talk about *Python, SQL, Data Visualization, ML, and AI*  
+- 📊 I enjoy finding patterns and meaning in data
 
 ---
 
@@ -38,8 +38,8 @@
 
 ---
 
-### ✨ Fun Fact:
-📖 I enjoy exploring new places and analyzing trends in everyday data.  
+### ✨ A little about me
+📖 I like learning new things, exploring places, and working on simple solutions to real-world problems.
 
 ---
 
