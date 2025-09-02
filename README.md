@@ -3,18 +3,35 @@
 
 🎓 B.Sc Computer Science Graduate | 📊 Learning Data Science  
 
-💡 I like Working with data and buliding projects that give useful insights.  
-📚 Completed an 8-month intensive Data Science course.  
-🔍 I'm interested in Data Science, Machine Learning, and AI 
+- 📚 I completed an 8-month Data Science course  
+- 🌱 Currently learning Machine Learning, Deep Learning, and NLP  
+- 👯 Open to collaborate on Data Science & Analytics projects  
+- 💼 Looking for opportunities as a Data Analyst / Data Scientist  
+- 💬 Ask me about Python, SQL, Data Visualization, ML, and AI  
+- 📊 I enjoy finding insights and patterns from data  
+- 📫 How to reach me: [LinkedIn](siva-janani-r-55b359366) | [Email](mailto:mailto:jananir043@gmail.com)  
+- ✨ Fun fact: I like exploring new places and learning new tools  
 
 ---
 
-### 🚀 What I'm up to:
-- 🌱 Learning more about *Machine Learning, Deep Learning, and NLP*  
-- 👯 Open to working on *Data Science and Data Analysis projects*  
-- 💼 Looking for opportunities as a *Data Analyst / Data Scientist*  
-- 💬 I can talk about *Python, SQL, Data Visualization, ML, and AI*  
-- 📊 I enjoy finding patterns and meaning in data
+### 🛠 I code in:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Janani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivajanani2004&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivajanani2004&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sivajanani2004&theme=default)
 
 ---
 
