@@ -1,5 +1,5 @@
 # Sivajanani
-# Hi there 👋 I'm Siva Janani  
+# Hey all 👋 I'm Siva Janani  
 
 🎓 B.Sc Computer Science Graduate | 📊 Learning Data Science  
 
